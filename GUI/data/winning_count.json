@@ -1,0 +1,22 @@
+[
+{"candidate":"Hillary Clinton",
+"positive":200,
+"negative": 100,
+"neutral" : 10},
+{"candidate":"Donald Trump",
+"positive":200,
+"negative": 100,
+"neutral" : 10},
+{"candidate":"Jeb Bush",
+"positive":200,
+"negative": 100,
+"neutral" : 10},
+{"candidate":"Ted Cruz",
+"positive":200,
+"negative": 100,
+"neutral" : 10},
+{"candidate":"Bernie Sanders",
+"positive":200,
+"negative": 100,
+"neutral" : 10}
+]
